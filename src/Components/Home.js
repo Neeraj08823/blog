@@ -31,7 +31,7 @@ function Home() {
                       <img
                         className=" h-50 w-50 px-20 pt-5 "
                         src={show.url}
-                        alt="Sunset in the mountains"
+                        alt=""
                       />
                     </div>
                     <div className="px-6 py-4">
